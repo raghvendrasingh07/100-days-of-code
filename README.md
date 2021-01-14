@@ -14,4 +14,8 @@
 
 **Thoughts:** Grid and Flex are powerful and helpful in responsive web designing.
 
-Link to work:** [A simple survey form](https://www.github.com/raghvendrasingh07)
+### Day 3: January 13, 2021 & Day 4: January 14, 2021
+
+**Both days Progress**: Watched Git tutorial on youtube and Created simple responsive contact us form.
+
+**Link to work:** [Code here](https://www.github.com/rsinghcodes/100-days-of-code)
