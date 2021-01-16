@@ -19,3 +19,9 @@
 **Both days Progress**: Watched Git tutorial on youtube and Created simple responsive contact us form.
 
 **Link to work:** [Code here](https://www.github.com/rsinghcodes/100-days-of-code)
+
+### Day 5: January 15, 2021 & Day 6: January 16, 2021
+
+**Both days Progress**: Completed Basic JavaScript course on freecodecamp.org and Created Age calculator website.
+
+**Link to work:** [Code here](https://www.github.com/rsinghcodes/100-days-of-code)
