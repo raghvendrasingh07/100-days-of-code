@@ -14,20 +14,38 @@
 
 **Thoughts:** Grid and Flex are powerful and helpful in responsive web designing.
 
-### Day 3: January 13, 2021 & Day 4: January 14, 2021
+### Day 3: January 13, 2021
 
-**Both days Progress**: Watched Git tutorial on youtube and Created simple responsive contact us form.
+**Today's Progress**: Watched Git tutorial on youtube
 
-**Link to work:** [Code here](https://www.github.com/rsinghcodes/100-days-of-code/tree/master/Day3%20and%20Day4)
+### Day 4: January 14, 2021
 
-### Day 5: January 15, 2021 & Day 6: January 16, 2021
+**Today's Progress**: Created simple responsive contact us form.
 
-**Both days Progress**: Completed Basic JavaScript course on freecodecamp.org and Created Age calculator website.
+**Link to work:** [Code here](https://www.github.com/rsinghcodes/100-days-of-code/)
 
-**Link to work:** [Code here](https://www.github.com/rsinghcodes/100-days-of-code/tree/master/Age%20Calculator%20-%20Day5%20and%20Day6)
+### Day 5: January 15, 2021
 
-### Day 7: January 17, 2021 & Day 8: January 18, 2021
+**Today's Progress**: Completed Basic JavaScript course on freecodecamp.org
 
-**Both days Progress**: Completed ES6 course on freecodecamp.org and Created fully responsive and mobile friendly static food website.
+### Day 6: January 16, 2021
 
-**Link to work:** [Code here](https://www.github.com/rsinghcodes/100-days-of-code)
+**Today's Progress**: Created Age calculator website.
+
+**Link to work:** [Code here](https://www.github.com/rsinghcodes/100-days-of-code/)
+
+### Day 7: January 17, 2021
+
+**Today's Progress**: Completed ES6 course on freecodecamp.org
+
+### Day 8: January 18, 2021
+
+**Today's Progress**: Created fully responsive and mobile friendly static food website.
+
+**Link to work:** [Code here](https://www.github.com/rsinghcodes/100-days-of-code/)
+
+### Day 9: January 19, 2021
+
+**Today's Progress**: Today, I created simple digital calculator using html, css and javascript by watching youtube tutorial.
+
+**Link to work:** [Code here](https://www.github.com/rsinghcodes/100-days-of-code/)
