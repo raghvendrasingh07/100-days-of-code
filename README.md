@@ -14,6 +14,8 @@
 
 **Thoughts:** Grid and Flex are powerful and helpful in responsive web designing.
 
+**Link to work:** [Code here](https://www.github.com/rsinghcodes/100-days-of-code/)
+
 ### Day 3: January 13, 2021
 
 **Today's Progress**: Watched Git tutorial on youtube
@@ -49,3 +51,9 @@
 **Today's Progress**: Today, I created simple digital calculator using html, css and javascript by watching youtube tutorial.
 
 **Link to work:** [Code here](https://www.github.com/rsinghcodes/100-days-of-code/)
+
+### Day 10: January 20, 2021
+
+**Today's Progress**: Today, I learned little bit about Regular Expressions and I also created random password generator website.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/random-password-generator)
