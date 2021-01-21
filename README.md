@@ -57,3 +57,9 @@
 **Today's Progress**: Today, I learned little bit about Regular Expressions and I also created random password generator website.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/random-password-generator)
+
+### Day 11: January 21, 2021
+
+**Today's Progress**: Today, I designed custom input type file upload and reviewed little bit about loops in javascript.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
