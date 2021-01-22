@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background: #f1f1f6;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 22px 40px rgba(0, 0, 0, 0.15);
+}
+.box-left,
+.box-right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 350px;
+  height: 400px;
+  padding: 0px 25px;
+}
+.box-left h3 {
+  font-size: 24px;
+}
+.box-right input {
+  width: 100%;
+  margin-top: 15px;
+  padding: 8px 10px;
+  font-size: 16px;
+  border: 1px solid silver;
+  border-radius: 5px;
+  outline: none;
+}
+button {
+  width: 100%;
+  padding: 8px 10px;
+  outline: none;
+  background: #1452c5;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 15px;
+  border-radius: 5px;
+}
+.message {
+  border-radius: 5px;
+  grid-column-end: span 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+  margin-bottom: 20px;
+}

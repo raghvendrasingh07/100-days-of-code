@@ -63,3 +63,9 @@
 **Today's Progress**: Today, I designed custom input type file upload and reviewed little bit about loops in javascript.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
+
+### Day 12: January 22, 2021
+
+**Today's Progress**: Practiced DOM manipulation and Created grade calculator website which will calculate percentage, total score and overall grade of 5 subjects.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
