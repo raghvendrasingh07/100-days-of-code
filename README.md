@@ -72,6 +72,12 @@
 
 ### Day 13: January 23, 2021
 
-**Today's Progress**: Proceeded to learn more little bit about regualar expressions and also I'm trying to create randomly happy bouncing balls as small project but unfortunately I am not able to complete today.
+**Today's Progress**: Proceeded to learn more about regular expressions and also I'm trying to create randomly happy bouncing balls as small project but unfortunately I am not able to complete today.
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/happy%20bouncing%20balls)
+
+### Day 14: January 24, 2021
+
+**Today's Progress**: Completed happy bouncing balls small project, and also I learned about growing functions from book.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/happy%20bouncing%20balls)
