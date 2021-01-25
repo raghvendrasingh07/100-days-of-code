@@ -81,3 +81,9 @@
 **Today's Progress**: Completed happy bouncing balls small project, and also I learned about growing functions from book.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/happy%20bouncing%20balls)
+
+### Day 15: January 25, 2021
+
+**Today's Progress**: Completed Regular Expressions course on freecodecamp.org and also created quiz app using HTML, CSS and vanilla JavaScript.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
