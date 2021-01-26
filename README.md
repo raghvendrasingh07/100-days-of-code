@@ -87,3 +87,9 @@
 **Today's Progress**: Completed Regular Expressions course on freecodecamp.org and also created quiz app using HTML, CSS and vanilla JavaScript.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
+
+### Day 16: January 26, 2021
+
+**Today's Progress**: Today, I learned differences between for(..in) loop and for(..of) loop in javascript, how to add a delay in javascript loop. Also, I was making project called "Note App" but unfortunately I didn't completed today.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
