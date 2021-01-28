@@ -99,3 +99,12 @@
 **Today's Progress**: Completed "Note App" and revised objects and array in javascript. 
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/note-taking-app-using-js)
+
+### Day 18: January 28, 2021
+
+**Today's Progress**: Today, I learned :
+- Shorthand for declaring properties in objects
+- Some methods in array like includes, IndexOf, lastIndexOf, slice, join, padStart and split method
+- Rest parameter in javascript
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
