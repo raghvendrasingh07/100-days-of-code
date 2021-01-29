@@ -119,3 +119,34 @@ function max(...numbers) {
 }
 console.log(max(4, 1, 9, -2));
 // → 9
+
+// =======================================================================
+// =============================== Day 19 ================================
+// =======================================================================
+
+/* Write a range function that takes two arguments, start and end, and returns
+ an array containing all the numbers from start up to (and including) end. */
+
+function rangeFun(start, end) {
+  let arr = [];
+  for (let i = start; i <= end; i++) {
+    arr[i] = i;
+  }
+  return arr;
+}
+
+console.log(rangeFun(1, 10));
+
+/* write a sum function that takes an array of numbers and returns the
+sum of these numbers. Run the example program and see whether it does
+indeed return 55.*/
+
+function sum(...numbers) {
+  let result = 0;
+  for (let i = 0; i < numbers.length; i++) {
+    result += numbers[i];
+  }
+  return result;
+}
+
+console.log(sum([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]));

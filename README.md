@@ -107,4 +107,10 @@
 - Some methods in array like includes, IndexOf, lastIndexOf, slice, join, padStart and split method
 - Rest parameter in javascript
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Data%20Structures%20-%20Objects%20and%20Arrays%20Day18)
+
+### Day 19: January 29, 2021
+
+**Today's Progress**: Today, I was doing exercise where I did some of questions easily but one of question was there where I stucked. The question was that to make a function that takes an array of numbers and returns the sum of these numbers. I am tried to solve with rest parameters but not solved yet. I searhed over internet but, I didn't found any one of helpful.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Data%20Structures%20-%20Objects%20and%20Arrays%20Day18)
