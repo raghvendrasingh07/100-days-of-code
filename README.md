@@ -111,6 +111,15 @@
 
 ### Day 19: January 29, 2021
 
-**Today's Progress**: Today, I was doing exercise where I did some of questions easily but one of question was there where I stucked. The question was that to make a function that takes an array of numbers and returns the sum of these numbers. I am tried to solve with rest parameters but not solved yet. I searhed over internet but, I didn't found any one of helpful.
+**Today's Progress**: Today, I was doing coding practice exercise where, I did some of questions easily but one of question was there where I stucked. The question was that to make a function that takes an array of numbers and returns the sum of these numbers. I tried to solve with rest parameters but not solved yet. I searched over internet but, I didn't found any one of helpful.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Data%20Structures%20-%20Objects%20and%20Arrays%20Day18)
+
+### Day 20: January 30, 2021
+
+**Today's Progress**: Today, I started to learn High-order Functions - 
+- I learned what is Abstraction
+- How function can create new functions, change other functions or provide new types of control flow.
+- Alternative of forLoop and while loop is forEach.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)

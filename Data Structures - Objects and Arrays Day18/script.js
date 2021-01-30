@@ -130,7 +130,7 @@ console.log(max(4, 1, 9, -2));
 function rangeFun(start, end) {
   let arr = [];
   for (let i = start; i <= end; i++) {
-    arr[i] = i;
+    arr.push(i);
   }
   return arr;
 }
@@ -141,12 +141,33 @@ console.log(rangeFun(1, 10));
 sum of these numbers. Run the example program and see whether it does
 indeed return 55.*/
 
-function sum(...numbers) {
-  let result = 0;
-  for (let i = 0; i < numbers.length; i++) {
-    result += numbers[i];
+function sum(numArray) {
+  var arrayTotal = 0;
+  numLoops = numArray.length;
+  for (var i = 0; i < numLoops; i++) {
+    arrayTotal += numArray[i];
+  }
+  return arrayTotal;
+}
+
+console.log(sum(rangeFun(1, 10)));
+// → 55
+
+/* Modify your range function to take an optional third
+argument that indicates the “step” value used when building the array. If no
+step is given, the elements go up by increments of one, corresponding to the
+old behavior.  */
+
+function range(start, end, increment) {
+  var result = [];
+  if (increment == undefined) increment = 1;
+  numLoops = Math.abs((end - start) / increment) + 1;
+  console.log("numLoops: " + numLoops);
+  for (var i = 0; i < numLoops; i++) {
+    result.push(start);
+    start += increment;
   }
   return result;
 }
 
-console.log(sum([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]));
+console.log(range(1, 10, 2));
