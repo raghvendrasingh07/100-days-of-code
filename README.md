@@ -122,4 +122,10 @@
 - How function can create new functions, change other functions or provide new types of control flow.
 - Alternative of forLoop and while loop is forEach.
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/High-Order%20Functions%20-%20Day20)
+
+### Day 20: January 30, 2021
+
+**Today's Progress**: I learned how to implement filter, map and reduce methods with array and objects. As these are very important to learn in javascript. So, I was trying to understand properly. I was little bit confused to find the difference between map and forEach method but later I got answer from geeksforgeeks.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/High-Order%20Functions%20-%20Day20)
