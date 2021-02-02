@@ -96,13 +96,14 @@
 
 ### Day 17: January 27, 2021
 
-**Today's Progress**: Completed "Note App" and revised objects and array in javascript. 
+**Today's Progress**: Completed "Note App" and revised objects and array in javascript.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/note-taking-app-using-js)
 
 ### Day 18: January 28, 2021
 
 **Today's Progress**: Today, I learned :
+
 - Shorthand for declaring properties in objects
 - Some methods in array like includes, IndexOf, lastIndexOf, slice, join, padStart and split method
 - Rest parameter in javascript
@@ -117,15 +118,28 @@
 
 ### Day 20: January 30, 2021
 
-**Today's Progress**: Today, I started to learn High-order Functions - 
+**Today's Progress**: Today, I started to learn High-order Functions -
+
 - I learned what is Abstraction
 - How function can create new functions, change other functions or provide new types of control flow.
 - Alternative of forLoop and while loop is forEach.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/High-Order%20Functions%20-%20Day20)
 
-### Day 20: January 30, 2021
+### Day 21: January 31, 2021
 
 **Today's Progress**: I learned how to implement filter, map and reduce methods with array and objects. As these are very important to learn in javascript. So, I was trying to understand properly. I was little bit confused to find the difference between map and forEach method but later I got answer from geeksforgeeks.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/High-Order%20Functions%20-%20Day20)
+
+### Day 22: February 01, 2021
+
+**Today's Progress**: Yesterday, I was busy in college work so, I was not able to code. After my college work, I tried to code but I stucked in the first question while doing exercise high order functions.
+
+**Link to work:** No work.
+
+### Day 23: February 02, 2021
+
+**Today's Progress**: Read Encapsulation, methods and prototype in js. I taking reference from book only and I am trying to learn deeply that's why, I little bit slow.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Secret%20life%20of%20objects%20-%20Day23)
