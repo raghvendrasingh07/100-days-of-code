@@ -18,21 +18,21 @@
 
 ### Day 3: January 13, 2021
 
-**Today's Progress**: Watched Git tutorial on youtube
+**Today's Progress**: Watched Git tutorial on youtube and tried some of commands on git bash. I was confused and forget some of commands but soon it will easy for me to use git and github.
 
 ### Day 4: January 14, 2021
 
-**Today's Progress**: Created simple responsive contact us form.
+**Today's Progress**: Today, I didn't learnt anything but I did a project called "simple responsive contact us form".
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Responsive%20Contact%20us%20Form%20-%20Day4)
 
 ### Day 5: January 15, 2021
 
-**Today's Progress**: Completed Basic JavaScript course on freecodecamp.org
+**Today's Progress**: Completed Basic JavaScript course on freecodecamp.org. It was easy for me to complete in one day because I was already familiar with basics of javascript.
 
 ### Day 6: January 16, 2021
 
-**Today's Progress**: Created Age calculator website.
+**Today's Progress**: Created Age calculator website. This is not big project but I tried to implement whatever I learned by making this project.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Age%20Calculator%20-%20Day6)
 
@@ -42,7 +42,7 @@
 
 ### Day 8: January 18, 2021
 
-**Today's Progress**: Created fully responsive and mobile friendly static food website.
+**Today's Progress**: Created fully responsive and mobile friendly static food website. It is static website and also this is not hosted on internet.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Responsive%20and%20Mobile%20Friendly%20Food%20Website%20-%20Day8)
 
@@ -143,3 +143,9 @@
 **Today's Progress**: Read Encapsulation, methods and prototype in js. I taking reference from book only and I am trying to learn deeply that's why, I little bit slow.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Secret%20life%20of%20objects%20-%20Day23)
+
+### Day 24: February 03, 2021
+
+**Today's Progress**: Practiced coding problems related to arrays, functions, if-else and loops. All code problems was present online so I didn't code offline. This was like solve and submit. So, I am not able to share on github whatever I code today.
+
+**Link to work:** Practiced online.
