@@ -140,12 +140,18 @@
 
 ### Day 23: February 02, 2021
 
-**Today's Progress**: Read Encapsulation, methods and prototype in js. I taking reference from book only and I am trying to learn deeply that's why, I little bit slow.
+**Today's Progress**: Read Encapsulation, methods and prototype in js. I am taking reference from book only and trying to learn deeply that's why, I am little bit slow.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Secret%20life%20of%20objects%20-%20Day23)
 
 ### Day 24: February 03, 2021
 
-**Today's Progress**: Practiced coding problems related to arrays, functions, if-else and loops. All code problems was present online so I didn't code offline. This was like solve and submit. So, I am not able to share on github whatever I code today.
+**Today's Progress**: Practiced coding problems related to arrays, functions, if-else and loops. All code problems was present online so I didn't code offline and that's why I am not able to share on github.
 
 **Link to work:** Practiced online.
+
+### Day 25: February 04, 2021
+
+**Today's Progress**: Today, I practiced a exercise related to topic high-orders funtion where I was stucking for two days. The question was little bit difficult for me and also time taking that's why I revised and not done any extra code today.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/High-Order%20Functions%20-%20Day20)

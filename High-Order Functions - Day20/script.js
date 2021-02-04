@@ -105,26 +105,28 @@ const totalYears = companies.reduce(
 );
 console.log(totalYears);
 
-// ============================ Doubt Here! ================================
-
 let arrays = [
   [1, 2, 3],
   [4, 5, 6],
   [7, 8, 9],
 ];
 
-let newArray = [];
-newArray.concat(arrays.reduce((...a, ...b) => [...a, ...b], 0));
+console.log(
+  arrays.reduce((flat, current) => {
+    return flat.concat(current);
+  }, [])
+);
 
-console.log(newArray);
-
-function someHighOrderFun(value, test, update, body) {
-  for (let i = 0; i < value.length; i++) {
-    if (test(i)) {
-      body(i);
-      update(i);
-    } else {
-      return false;
-    }
-  }
+function loop(value, test, update, execute) {
+  if (test(value)) {
+    execute(value);
+    return loop(update(value), test, update, execute);
+  } // else stop
 }
+
+loop(
+  3,
+  (n) => n > 0,
+  (n) => n - 1,
+  console.log
+);
