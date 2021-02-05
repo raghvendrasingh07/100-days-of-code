@@ -155,3 +155,9 @@
 **Today's Progress**: Today, I practiced a exercise related to topic high-orders funtion where I was stucking for two days. The question was little bit difficult for me and also time taking that's why I revised and not done any extra code today.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/High-Order%20Functions%20-%20Day20)
+
+### Day 26: February 05, 2021
+
+**Today's Progress**: Learned async and await, fetch method and some response properties. Async and await were little bit confusing but soon I got it. Also, it was interesting for me to fetch data from internet and display in the browser live.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Day26)
