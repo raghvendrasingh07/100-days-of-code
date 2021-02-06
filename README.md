@@ -161,3 +161,9 @@
 **Today's Progress**: Learned async and await, fetch method and some response properties. Async and await were little bit confusing but soon I got it. Also, it was interesting for me to fetch data from internet and display in the browser live.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Day26)
+
+### Day 27: February 06, 2021
+
+**Today's Progress**: Completed Debugging techniques on freecodecamp. I alos practiced how to debug in chrome dev tool and how breakpoints checks behaviour of code.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Day27)
