@@ -164,6 +164,12 @@
 
 ### Day 27: February 06, 2021
 
-**Today's Progress**: Completed Debugging techniques on freecodecamp. I alos practiced how to debug in chrome dev tool and how breakpoints checks behaviour of code.
+**Today's Progress**: Completed Debugging techniques on freecodecamp. I also practiced how to debug in chrome dev tool and learned how to check behaviour of code using breakpoints.
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Day27)
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Learned%20Debugging%20-%20Day%2027)
+
+### Day 28: February 07, 2021
+
+**Today's Progress**: Learned constructor, operator "new", coding style (topic on javascript.info). Also, I was busy in completing my college so not done any more code or learnt anything.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
