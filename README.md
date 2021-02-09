@@ -164,12 +164,18 @@
 
 ### Day 27: February 06, 2021
 
-**Today's Progress**: Completed Debugging techniques on freecodecamp. I also practiced how to debug in chrome dev tool and learned how to check behaviour of code using breakpoints.
+**Today's Progress**: Completed Debugging techniques on freecodecamp. Also, I practiced how to debug in chrome dev tool and learned how to check behaviour of code using breakpoints.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Learned%20Debugging%20-%20Day%2027)
 
 ### Day 28: February 07, 2021
 
-**Today's Progress**: Learned constructor, operator "new", coding style (topic on javascript.info). Also, I was busy in completing my college so not done any more code or learnt anything.
+**Today's Progress**: Learned constructor, operator "new", coding style (topic on javascript.info). I was busy in completing my college assignment, so I didn't code more code or learnt anything.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
+
+### Day 29: February 09, 2021
+
+**Today's Progress**: Today, I was reading about event loop in javascript. How event loop works ? How events are managed in Message queue and call stack.
+
+**Link to work:**
