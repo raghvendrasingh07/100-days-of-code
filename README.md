@@ -172,10 +172,16 @@
 
 **Today's Progress**: Learned constructor, operator "new", coding style (topic on javascript.info). I was busy in completing my college assignment, so I didn't code more code or learnt anything.
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
+**Link to work:** [Code here](<https://github.com/rsinghcodes/100-days-of-code/tree/master/Classes%20and%20Objects%20(more)%20-%20Day28>)
 
 ### Day 29: February 09, 2021
 
-**Today's Progress**: Today, I was reading about event loop in javascript. How event loop works ? How events are managed in Message queue and call stack.
+**Today's Progress**: Today, I was reading about event loop in javascript. How event loop works ? How events are managed between Message/callback queue and call stack.
 
 **Link to work:**
+
+### Day 30: February 10, 2021
+
+**Today's Progress**: Moving forward on OOP in javascript. Learned What are stack and functions as objects. I feel that I didn't understand properly because I started late study today and also now-a-days, I have to do some college work also. That's why I didn't get proper understanding.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
