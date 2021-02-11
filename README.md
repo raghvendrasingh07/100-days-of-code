@@ -184,4 +184,10 @@
 
 **Today's Progress**: Moving forward on OOP in javascript. Learned What are stack and functions as objects. I feel that I didn't understand properly because I started late study today and also now-a-days, I have to do some college work also. That's why I didn't get proper understanding.
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/OOP%20in%20javascript)
+
+### Day 31: February 11, 2021
+
+**Today's Progress**: Practiced Fetch Api method. The topic which I was reading yesterday, thought to skip and practice html code. So, I learned fetch method and then I moved on to create a project for my client.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Fetch%20method%20in%20js)
