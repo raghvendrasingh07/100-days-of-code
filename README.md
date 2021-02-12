@@ -182,7 +182,7 @@
 
 ### Day 30: February 10, 2021
 
-**Today's Progress**: Moving forward on OOP in javascript. Learned What are stack and functions as objects. I feel that I didn't understand properly because I started late study today and also now-a-days, I have to do some college work also. That's why I didn't get proper understanding.
+**Today's Progress**: Moving forward on OOP in javascript. Learned functions as objects. About functions types. Then, I practiced by doing code.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/OOP%20in%20javascript)
 
@@ -191,3 +191,9 @@
 **Today's Progress**: Practiced Fetch Api method. The topic which I was reading yesterday, thought to skip and practice html code. So, I learned fetch method and then I moved on to create a project for my client.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Fetch%20method%20in%20js)
+
+### Day 32: February 12, 2021
+
+**Today's Progress**: Today, I learnt Property flags and descriptors, Property getters and setters in objects. How objects can be modified with setter and read with getter.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/OOP%20in%20javascript)
