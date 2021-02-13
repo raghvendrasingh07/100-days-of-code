@@ -197,3 +197,9 @@
 **Today's Progress**: Today, I learnt Property flags and descriptors, Property getters and setters in objects. How objects can be modified with setter and read with getter.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/OOP%20in%20javascript)
+
+### Day 33: February 13, 2021
+
+**Today's Progress**: I learned about classes, class inheritance and class static. This topic was pretty easy to understand because I was doing practice with reading from w3schools. Also, today I made a simple proposal website on the occasion of Valentine’s week coming.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/OOP%20in%20javascript)

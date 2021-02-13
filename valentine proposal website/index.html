@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
+    />
+  </head>
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+    * {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+      font-family: "Pacifico", cursive;
+    }
+    body {
+      background: url("image.jpg");
+      background-size: cover;
+    }
+    .container {
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+    button {
+      background: #f84764;
+      outline: none;
+      border: none;
+      color: #fff;
+      padding: 10px 20px;
+      font-size: 1.2rem;
+      border-radius: 50px;
+      margin-top: 8px;
+      cursor: pointer;
+    }
+    h2 {
+      font-size: 2.5rem;
+      color: #f84764;
+    }
+    i {
+      animation: pulse 3s infinite;
+    }
+    @keyframes pulse {
+      0% {
+        transform: scale(0.8);
+      }
+      5% {
+        transform: scale(1);
+      }
+      10% {
+        transform: scale(0.9);
+      }
+      15% {
+        transform: scale(1.1);
+      }
+      50% {
+        transform: scale(0.9);
+      }
+      100% {
+        transform: scale(0.9);
+      }
+    }
+  </style>
+  <body>
+    <div class="container">
+      <h2>I want to say something...</h2>
+      <button onclick="display();">What ?</button>
+      <h2 class="message"></h2>
+    </div>
+    <script>
+      let message = document.querySelector(".message");
+      let button = document.querySelector("button");
+
+      function display() {
+        button.style.display = "none";
+        message.innerHTML = "I Love you...";
+        var heartIcon = document.createElement("i");
+        heartIcon.classList.add("fa");
+        heartIcon.classList.add("fa-heart");
+        message.append(heartIcon);
+      }
+    </script>
+  </body>
+</html>

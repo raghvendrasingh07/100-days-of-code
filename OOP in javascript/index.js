@@ -214,3 +214,57 @@ for (let prop in obj) {
 log(obj, obj.test, obj.frank);
 obj.frank = "Shagadelic";
 log(obj.frank);
+
+class Car {
+  constructor(name) {
+    this.name = name;
+  }
+  show() {
+    return this.name;
+  }
+}
+
+class Model extends Car {
+  constructor(name, model) {
+    super(name);
+    this.model = model;
+  }
+  present() {
+    return this.show() + this.model;
+  }
+}
+
+let myCar = new Model("Range Rover", 2020);
+console.log(myCar);
+
+// add getters and setters in the class
+
+class Person {
+  constructor(name) {
+    this.name = name;
+  }
+  get pname() {
+    return this.name;
+  }
+  set pname(value) {
+    this.name = value;
+  }
+}
+
+const personOne = new Person("Harry");
+personOne.pname = "Kyle";
+console.log(personOne.pname);
+
+// JavaScript Static Methods
+
+class Truck {
+  constructor(name) {
+    this.name = name;
+  }
+  static hello() {
+    return this.name + " from hello static method";
+  }
+}
+
+const myTruck = new Truck("Dasun");
+console.log(Truck.hello(myTruck));
