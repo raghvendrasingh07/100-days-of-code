@@ -202,4 +202,10 @@
 
 **Today's Progress**: I learned about classes, class inheritance and class static. This topic was pretty easy to understand because I was doing practice with reading from w3schools. Also, today I made a simple proposal website on the occasion of Valentine’s week coming.
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/OOP%20in%20javascript)
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/valentine%20proposal%20website)
+
+### Day 34: February 14, 2021
+
+**Today's Progress**: I moved on nodejs today. Learned how to write, append, read and delete a file in a sync and sync way. Also, I'm already familiar with reactjs so I thought to reiterate whatever I have learned by doing a project with material-ui which will take four to six days to finish.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
