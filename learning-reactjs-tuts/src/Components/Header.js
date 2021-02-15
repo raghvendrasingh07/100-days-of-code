@@ -18,6 +18,7 @@ import SearchIcon from "@material-ui/icons/Search";
 const useStyles = makeStyles({
   root: {
     background: "#fff",
+    transform: "translateZ(0)",
   },
   searchInput: {
     fontSize: "0.8rem",

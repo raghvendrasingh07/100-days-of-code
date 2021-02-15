@@ -206,6 +206,12 @@
 
 ### Day 34: February 14, 2021
 
-**Today's Progress**: I moved on nodejs today. Learned how to write, append, read and delete a file in a sync and sync way. Also, I'm already familiar with reactjs so I thought to reiterate whatever I have learned by doing a project with material-ui which will take four to six days to finish.
+**Today's Progress**: I moved on nodejs today. Learned how to write, append, read and delete a file in async and sync way. Also, I'm already familiar with reactjs so I thought to reiterate whatever I have learned by doing a project with material-ui which will take four to six days to finish.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Nodejs%20beginning%20-%20Day%2034)
+
+### Day 35: February 15, 2021
+
+**Today's Progress**: Added a new component in my react application, and then moved on to understand how to implement and customize material-ui components with react application by tutorials and documentation.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
