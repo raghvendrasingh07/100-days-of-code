@@ -1,14 +1,14 @@
 import "./App.css";
 import SideMenu from "../Components/SideMenu";
 import {
+  Button,
   createMuiTheme,
   CssBaseline,
   makeStyles,
   ThemeProvider,
 } from "@material-ui/core";
 import Header from "../Components/Header";
-import PageHeader from "../Components/PageHeader";
-import { PeopleOutlineTwoTone } from "@material-ui/icons";
+import Employee from "../Pages/Employees/Employee";
 
 const theme = createMuiTheme({
   palette: {
@@ -25,6 +25,34 @@ const theme = createMuiTheme({
       borderRadius: "12px",
     },
   },
+  // shape: {
+  //   borderRadius: "12px",
+  // },
+  overrides: {
+    MuiAppBar: {
+      root: {
+        transform: "translateZ(0)",
+      },
+    },
+
+    MuiButton: {
+      text: {
+        background: "#fff",
+        borderRadius: "10px",
+        border: 0,
+        color: "#000",
+        height: 48,
+        padding: "0 30px",
+        boxShadow: "0 22px 40px rgba(255, 105, 135, .3)",
+        textTransform: "capitalize",
+      },
+    },
+  },
+  props: {
+    MuiIconButton: {
+      disableRipple: true,
+    },
+  },
 });
 
 const useStyles = makeStyles({
@@ -36,17 +64,14 @@ const useStyles = makeStyles({
 
 function App() {
   const classes = useStyles();
+
   return (
     <ThemeProvider theme={theme}>
       <SideMenu />
       <div className={classes.appMain}>
         <Header />
-        <PageHeader
-          title="This is Page Header"
-          subTitle="Page description"
-          icon={<PeopleOutlineTwoTone fontSize="large" />}
-        />
-        Hello This is Poppins
+        <Employee />
+        <Button>Submit</Button>
       </div>
       <CssBaseline />
     </ThemeProvider>

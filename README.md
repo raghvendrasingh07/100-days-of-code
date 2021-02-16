@@ -214,4 +214,10 @@
 
 **Today's Progress**: Added a new component in my react application, and then moved on to understand how to implement and customize material-ui components with react application by tutorials and documentation.
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/learning-reactjs-tuts)
+
+### Day 36: February 16, 2021
+
+**Today's Progress**: Today, I learned how to create reusable components and use them in applications. After that, I added two more components with material UI form customization in my react application.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/learning-reactjs-tuts)
