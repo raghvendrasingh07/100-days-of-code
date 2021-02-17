@@ -25,9 +25,6 @@ const theme = createMuiTheme({
       borderRadius: "12px",
     },
   },
-  // shape: {
-  //   borderRadius: "12px",
-  // },
   overrides: {
     MuiAppBar: {
       root: {
@@ -40,11 +37,11 @@ const theme = createMuiTheme({
         background: "#fff",
         borderRadius: "10px",
         border: 0,
-        color: "#000",
+        color: "#001833",
         height: 48,
         padding: "0 30px",
         boxShadow: "0 22px 40px rgba(255, 105, 135, .3)",
-        textTransform: "capitalize",
+        fontWeight: "bold",
       },
     },
   },

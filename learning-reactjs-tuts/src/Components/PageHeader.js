@@ -14,9 +14,11 @@ const useStyles = makeStyles((theme) => ({
     display: "inline-block",
     padding: theme.spacing(2),
     color: "#3c44b1",
+    boxShadow: "0 22px 40px rgba(255, 105, 135, .3)",
   },
   pageTitle: {
     paddingLeft: theme.spacing(4),
+    alignSelf: "center",
     "& .MuiTypography-subtitle2": {
       opacity: "0.6",
     },
