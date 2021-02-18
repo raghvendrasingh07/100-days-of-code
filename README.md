@@ -222,8 +222,18 @@
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/learning-reactjs-tuts)
 
-### Day 36: February 16, 2021
+### Day 37: February 17, 2021
 
 **Today's Progress**: Created reusable components of a checkbox, select box, and radio groups then integrated with a form component. It seems to be, learning the material UI framework is a bit difficult for me in starting but I know soon it will easier after understanding properly.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/learning-reactjs-tuts)
+
+### Day 38: February 18, 2021
+
+**Today's Progress**: - Worked on reusable components.
+
+- Added regular expression for email validation.
+- Implemented validation for full name, email, and department in the employeeForm component
+- Learned javascript array every() method.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/learning-reactjs-tuts)
