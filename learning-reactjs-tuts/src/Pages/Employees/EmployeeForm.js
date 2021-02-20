@@ -44,14 +44,20 @@ export default function EmployeeForm() {
 
     if (fieldValues == values) return Object.values(temp).every((x) => x == "");
   };
-  const { values, setValues, handleInputChange, errors, setErrors } = useForm(
-    initialFValues
-  );
+  const {
+    values,
+    setValues,
+    handleInputChange,
+    resetForm,
+    errors,
+    setErrors,
+  } = useForm(initialFValues, true, validate);
 
   const handleSubmit = (e) => {
     e.preventDefault();
     if (validate()) {
-      window.alert("Hello");
+      employeeService.insertEmployee(values);
+      resetForm();
     }
   };
 
@@ -117,7 +123,11 @@ export default function EmployeeForm() {
           />
           <div>
             <Controls.Button type="submit" text="Submit" />
-            <Controls.Button text="Reset" style={{ background: "#001833" }} />
+            <Controls.Button
+              text="Reset"
+              style={{ background: "#001833" }}
+              onClick={resetForm}
+            />
           </div>
         </Grid>
       </Grid>

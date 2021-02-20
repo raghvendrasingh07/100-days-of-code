@@ -230,10 +230,17 @@
 
 ### Day 38: February 18, 2021
 
-**Today's Progress**: - Worked on reusable components.
+**Today's Progress**:
 
+- Worked on reusable components.
 - Added regular expression for email validation.
 - Implemented validation for full name, email, and department in the employeeForm component
 - Learned javascript array every() method.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/learning-reactjs-tuts)
+
+### Day 39: February 20, 2021
+
+**Today's Progress**: Added more reusable components for the table which will retrieve data from the browser's local storage and then display it on the screen. The retrieval of data is not completed yet because the code and logic are to be implemented correctly then it may work.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/learning-reactjs-tuts)
