@@ -241,6 +241,12 @@
 
 ### Day 39: February 20, 2021
 
-**Today's Progress**: Added more reusable components for the table which will retrieve data from the browser's local storage and then display it on the screen. The retrieval of data is not completed yet because the code and logic are to be implemented correctly then it may work.
+**Today's Progress**: Added reusable components for the table which will retrieve data from the browser's local storage and then display it on the screen. The retrieval of data is not completed yet because the code and logic are to be implemented correctly, then it may work.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/learning-reactjs-tuts)
+
+### Day 40: February 21, 2021
+
+**Today's Progress**: Today, I completed the retrieval of data by sorting the table using employee name or mobile number, or email address. Now, tomorrow I will make a reusable component for the Pop-up dialog which will show a form for adding or deleting employee's data.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/learning-reactjs-tuts)
