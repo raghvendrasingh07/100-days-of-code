@@ -247,6 +247,12 @@
 
 ### Day 40: February 21, 2021
 
-**Today's Progress**: Today, I completed the retrieval of data by sorting the table using employee name or mobile number, or email address. Now, tomorrow I will make a reusable component for the Pop-up dialog which will show a form for adding or deleting employee's data.
+**Today's Progress**: Today, I completed the retrieval of data by sorting the table using employee name or mobile number, or email address. Now, tomorrow I will make a reusable component for the Pop-up dialog which will show a form for adding or updating employee's data.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/learning-reactjs-tuts)
+
+### Day 41: February 22, 2021 | Day 42: February 23, 2021
+
+**Today's Progress**: Finally, I completed my simple react application where we can add, delete and update employee details. I have not used any database or back-end for this application. The details will be saved in the local storage of the browser. This project is done with the help of a youtube tutorial and just to learn material UI (A popular react UI framework).
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/learning-reactjs-tuts)
