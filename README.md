@@ -256,3 +256,9 @@
 **Today's Progress**: Finally, I completed my simple react application where we can add, delete and update employee details. I have not used any database or back-end for this application. The details will be saved in the local storage of the browser. This project is done with the help of a youtube tutorial and just to learn material UI (A popular react UI framework).
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/learning-reactjs-tuts)
+
+### Day 43: February 24, 2021
+
+**Today's Progress**: Learned OS module in node js and then practiced code. After that, I read a little bit in the nextjs docs for my upcoming project.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
