@@ -208,7 +208,7 @@
 
 **Today's Progress**: I moved on nodejs today. Learned how to write, append, read and delete a file in async and sync way. Also, I'm already familiar with reactjs so I thought to reiterate whatever I have learned by doing a project with material-ui which will take four to six days to finish.
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Nodejs%20beginning%20-%20Day%2034)
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Nodejs-beginning-Day-34)
 
 ### Day 35: February 15, 2021
 
@@ -261,4 +261,12 @@
 
 **Today's Progress**: Learned OS module in node js and then practiced code. After that, I read a little bit in the nextjs docs for my upcoming project.
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Nodejs-beginning-Day-34)
+
+### Day 44: February 25, 2021
+
+**Today's Progress**: Started a new project called "Kabira" and enjoyed writing code. For this project, I will use nextjs and styled-component for the front end, and for the backend, I'll use node js.
+
+The study of Node JS is still going on and after its completion, I will start work on the backend as well.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
