@@ -265,8 +265,14 @@
 
 ### Day 44: February 25, 2021
 
-**Today's Progress**: Started a new project called "Kabira" and enjoyed writing code. For this project, I will use nextjs and styled-component for the front end, and for the backend, I'll use node js.
+**Today's Progress**: Started working on a new project called "Kabira" and enjoyed writing code. For this project, I will use nextjs and styled-component for the front end, and for the backend, I'll use node js.
 
 The study of Node JS is still going on and after its completion, I will start work on the backend as well.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
+
+### Day 45: February 26, 2021
+
+**Today's Progress**: Today I got very upset when I was working on Next js because I was not styling correctly so I decided to start working again by removing all the components. Tomorrow I will try to make it good by learning how to style the components appropriately.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
