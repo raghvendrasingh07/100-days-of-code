@@ -273,6 +273,16 @@ The study of Node JS is still going on and after its completion, I will start wo
 
 ### Day 45: February 26, 2021
 
-**Today's Progress**: Today I got very upset when I was working on Next js because I was not styling correctly so I decided to start working again by removing all the components. Tomorrow I will try to make it good by learning how to style the components appropriately.
+**Today's Progress**: Today I got very upset when I was working on Next js because I was not styling the components properly so I decided to start working again by removing all components and adding new components. And spent all my today's time working on it.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
+
+### Day 46: February 27, 2021
+
+**Today's Progress**: Continued to work with Tailwind CSS for the header part of my website.
+
+Next is to fix the header at the top while scrolling and then to add a sidebar menu to make it responsive.
+
+Tomorrow, I'll try to practice some javascript question on @hackerrank .
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
