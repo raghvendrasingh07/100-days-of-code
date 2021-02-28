@@ -283,6 +283,12 @@ The study of Node JS is still going on and after its completion, I will start wo
 
 Next is to fix the header at the top while scrolling and then to add a sidebar menu to make it responsive.
 
-Tomorrow, I'll try to practice some javascript question on @hackerrank .
+Tomorrow, I'll try to practice some javascript questions on @hackerrank .
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
+
+### Day 47: February 28, 2021
+
+**Today's Progress**: Spent few hours in the header part of the project and is almost up according to my wish and just need to make some small fixes to handle the responsiveness which I'll do tomorrow. Also, I practiced some JavaScript questions on @hackerrank.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
