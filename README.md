@@ -292,3 +292,9 @@ Tomorrow, I'll try to practice some javascript questions on @hackerrank .
 **Today's Progress**: Spent few hours in the header part of the project and is almost up according to my wish and just need to make some small fixes to handle the responsiveness which I'll do tomorrow. Also, I practiced some JavaScript questions on @hackerrank.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
+
+### Day 48: March 01, 2021
+
+**Today's Progress**: Practiced javascript question on @hackerrank. Didn't work on the project today because I was attending a college session and after that, I felt tired so I thought to skip the project work today.
+
+**Link to work:** Coded on @hackerrank
