@@ -253,7 +253,7 @@
 
 ### Day 41: February 22, 2021 | Day 42: February 23, 2021
 
-**Today's Progress**: Finally, I completed my simple react application where we can add, delete and update employee details. I have not used any database or back-end for this application. The details will be saved in the local storage of the browser. This project is done with the help of a youtube tutorial and just to learn material UI (A popular react UI framework).
+**Both day Progress**: Finally, I completed my simple react application where we can add, delete and update employee details. I have not used any database or back-end for this application. The details will be saved in the local storage of the browser. This project is done with the help of a youtube tutorial and just to learn material UI (A popular react UI framework).
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/learning-reactjs-tuts)
 
@@ -298,3 +298,9 @@ Tomorrow, I'll try to practice some javascript questions on @hackerrank .
 **Today's Progress**: Practiced javascript question on @hackerrank. Didn't work on the project today because I was attending a college session and after that, I felt tired so I thought to skip the project work today.
 
 **Link to work:** Coded on @hackerrank
+
+### Day 49: March 03, 2021
+
+**Today's Progress**: I am disappointed because the header is not responsive even after 3 working days. But no problem, other than that, I solved some questions on hackerrank. Tomorrow I will work on the header again so that it becomes responsive across all devices.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
