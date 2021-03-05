@@ -304,3 +304,9 @@ Tomorrow, I'll try to practice some javascript questions on @hackerrank .
 **Today's Progress**: I am disappointed because the header is not responsive even after 3 working days. But no problem, other than that, I solved some questions on hackerrank. Tomorrow I will work on the header again so that it becomes responsive across all devices.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
+
+### Day 50: March 04, 2021 | Day 51: March 05, 2021
+
+**Both day Progress**: Completed the header part which is now fully responsive and after that, I solved the problems on HackerRank. Now, the next is to add pictures to my website, and also to write some content on it. Apart from that, I learned to create a web server in node js.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
