@@ -310,3 +310,9 @@ Tomorrow, I'll try to practice some javascript questions on @hackerrank .
 **Both day Progress**: Completed the header part which is now fully responsive and after that, I solved the problems on HackerRank. Now, the next is to add pictures to my website, and also to write some content on it. Apart from that, I learned to create a web server in node js.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
+
+### Day 52: March 05, 2021
+
+**Today's Progress**: Solved some JavaScript questions on @hackerrank, in which I solved 2-3 questions easily but there was one question which I stuck while solving and it took a long time but did not succeed. So I changed my mind and spent some time working on my project. Add picturesFrame with picture to the project today and made it responsive.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
