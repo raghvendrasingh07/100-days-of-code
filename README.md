@@ -307,12 +307,18 @@ Tomorrow, I'll try to practice some javascript questions on @hackerrank .
 
 ### Day 50: March 04, 2021 | Day 51: March 05, 2021
 
-**Both day Progress**: Completed the header part which is now fully responsive and after that, I solved the problems on HackerRank. Now, the next is to add pictures to my website, and also to write some content on it. Apart from that, I learned to create a web server in node js.
+**Progress on both days**: Completed the header part which is now fully responsive and after that, I solved the problems on HackerRank. Now, the next is to add pictures to my website, and also to write some content on it. Apart from that, I learned to create a web server in node js.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
 
-### Day 52: March 05, 2021
+### Day 52: March 06, 2021
 
-**Today's Progress**: Solved some JavaScript questions on @hackerrank, in which I solved 2-3 questions easily but there was one question which I stuck while solving and it took a long time but did not succeed. So I changed my mind and spent some time working on my project. Add picturesFrame with picture to the project today and made it responsive.
+**Today's Progress**: Solved some JavaScript questions on @hackerrank, in which I solved 2-3 questions easily but there was one question which I stuck while solving and it took a long time but did not succeed. So I changed my mind and spent some time working on my project. Add pictures to the project today and made it responsive.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
+
+### Day 53: March 07, 2021 | Day 54: March 07, 2021
+
+**Progress on both days**: Half of the home page is finished on my website. Now, a lot more remains to be done which I will do in the coming days. Yesterday I code less because I wanted to take a break so that I could feel a little relaxed.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
