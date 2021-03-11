@@ -317,8 +317,14 @@ Tomorrow, I'll try to practice some javascript questions on @hackerrank .
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
 
-### Day 53: March 07, 2021 | Day 54: March 07, 2021
+### Day 53: March 07, 2021 | Day 54: March 08, 2021
 
 **Progress on both days**: Half of the home page is finished on my website. Now, a lot more remains to be done which I will do in the coming days. Yesterday I code less because I wanted to take a break so that I could feel a little relaxed.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
+
+### Day 55: March 11, 2021
+
+**Today's Progress**: Today I created a simple API with the help HTTP module and their methods in node js. Also, I created horizontal sliding to images for mobile responsive. I used a random image generator API to get random images and then displayed them in the browser.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/)

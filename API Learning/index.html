@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        font-family: sans-serif;
+      }
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+      }
+      .container {
+        width: 100%;
+        display: flex;
+        overflow-y: hidden;
+        overflow-x: scroll;
+      }
+      img {
+        padding: 0 20px;
+        border-radius: 20px;
+      }
+      .container::-webkit-scrollbar {
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container"></div>
+    <script>
+      let container = document.querySelector(".container");
+
+      fetch("https://jsonplaceholder.typicode.com/photos?_limit=20")
+        .then((response) => response.json())
+        .then((res) => {
+          res.map((data) => {
+            key = data.id;
+            let image = document.createElement("img");
+            image.src = `https://picsum.photos/300/500?random=${data.id}`;
+            container.appendChild(image);
+          });
+        });
+    </script>
+  </body>
+</html>
