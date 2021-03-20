@@ -327,4 +327,16 @@ Tomorrow, I'll try to practice some javascript questions on @hackerrank .
 
 **Today's Progress**: Today I created a simple API with the help HTTP module and their methods in node js. Also, I created horizontal sliding to images for mobile responsive. I used a random image generator API to get random images and then displayed them in the browser.
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/)
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/API%20Learning)
+
+---
+
+Break from 100DaysOfCode for College Exams.
+
+---
+
+### Day 56: March 20, 2021
+
+**Today's Progress**: Updated UI of my project. I removed unused CSS classes and added new CSS classes. Also, I took a long time to understand the UI for my project, but still unable to decide which is the most appropriate.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
