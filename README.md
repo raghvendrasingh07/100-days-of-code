@@ -340,3 +340,9 @@ Break from 100DaysOfCode for College Exams.
 **Today's Progress**: Updated UI of my project. I removed unused CSS classes and added new CSS classes. Also, I took a long time to understand the UI for my project, but still unable to decide which is the most appropriate.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/kabira)
+
+### Day 57: March 22, 2021
+
+**Today's Progress**: I am a bit confused about hooks in Reactjs so I have started to reiterate hooks in Reactjs. I learned hooks rules, worked with the array using useState, what are dot operator, handle objects using useState, and a little bit about short circuit evaluation.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/)
