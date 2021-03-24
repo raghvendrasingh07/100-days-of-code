@@ -331,7 +331,7 @@ Tomorrow, I'll try to practice some javascript questions on @hackerrank .
 
 ---
 
-Break from 100DaysOfCode for College Exams.
+Break from 100DaysOfCode for College Exam.
 
 ---
 
@@ -344,5 +344,11 @@ Break from 100DaysOfCode for College Exams.
 ### Day 57: March 22, 2021
 
 **Today's Progress**: I am a bit confused about hooks in Reactjs so I have started to reiterate hooks in Reactjs. I learned hooks rules, worked with the array using useState, what are dot operator, handle objects using useState, and a little bit about short circuit evaluation.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/)
+
+### Day 58: March 24, 2021
+
+**Today's Progress**: Nowadays I am reiterating reactjs where today I learned how useEffect and clean-up function works.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/)
