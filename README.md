@@ -347,8 +347,11 @@ Break from 100DaysOfCode for College Exam.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/)
 
-### Day 58: March 24, 2021
+### Day 58: March 24, 2021 | Day 59: March 25, 2021
 
-**Today's Progress**: Nowadays I am reiterating reactjs where today I learned how useEffect and clean-up function works.
+**Both day's Progress**:
+
+- Reiterating reactjs where yesterday I learned how useEffect and clean-up function works, understood the useEffect dependency list array, login validation.
+- Today, I earned a gold badge in 10 days of JS. The binary calculator challenge was a bit daunting, but after several attempts and changing code logic, I got success.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/)
