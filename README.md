@@ -355,3 +355,9 @@ Break from 100DaysOfCode for College Exam.
 - Today, I earned a gold badge in 10 days of JS. The binary calculator challenge was a bit daunting, but after several attempts and changing code logic, I got success.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/)
+
+### Day 60: March 27, 2021
+
+**Today's Progress**: Learned (i.e Reiterated) useRef, Ref useReducer, useContext, createContext, What is Prop Drilling, and Context API. I have little doubt in useRef and Ref which I will clear yesterday and that's all for today.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/)
