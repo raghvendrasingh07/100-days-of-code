@@ -358,6 +358,12 @@ Break from 100DaysOfCode for College Exam.
 
 ### Day 60: March 27, 2021
 
-**Today's Progress**: Learned (i.e Reiterated) useRef, Ref useReducer, useContext, createContext, What is Prop Drilling, and Context API. I have little doubt in useRef and Ref which I will clear yesterday and that's all for today.
+**Today's Progress**: Learned (i.e Reiterated) useRef, Ref, useReducer, useContext, createContext, What is Prop Drilling, and Context API. I have little doubt in useRef and Ref which I will clear yesterday and that's all for today.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/)
+
+### Day 61: March 28, 2021
+
+**Today's Progress**: Today, I understood useRef, ref by repeating it again. After that, I moved to Redux today. Learned about actions, state, and Predictable container. I'm a beginner in Redux, so I'm taking a little time to understand.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/)
