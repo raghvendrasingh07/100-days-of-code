@@ -1,6 +1,7 @@
 const redux = require("redux");
 const createStore = redux.createStore;
 const combineReducers = redux.combineReducers;
+const applyMiddleware = redux.applyMiddleware;
 
 const Buy_Book = "Buy_Book";
 
@@ -56,7 +57,12 @@ const Reducer = combineReducers({
   Pen: PenReducer,
 });
 
-const store = createStore(Reducer);
+const logger = (store) => (next) => (action) => {
+  console.log("Logged Action: ", action);
+  next(action);
+};
+
+const store = createStore(Reducer, applyMiddleware(logger));
 console.log("Initial State ", store.getState());
 const unsubscribe = store.subscribe(() => {
   console.log("Updated State Value ", store.getState());

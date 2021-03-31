@@ -367,3 +367,9 @@ Break from 100DaysOfCode for College Exam.
 **Today's Progress**: Today, I understood useRef, ref by repeating it again. After that, I moved to Redux today. Learned about actions, state, and Predictable container. I'm a beginner in Redux, so I'm taking a little time to understand.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/)
+
+### Day 62: March 30, 2021
+
+**Today's Progress**: Today, I learned multiple reducer, combine reducer, Middleware, Async action, and Redux thunk. Redux thunk and middleware are a bit confusing and seem difficult to understand. Therefore, I have decided that I will repeat again after completion, otherwise if I do any project then I will understand.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Redux)
