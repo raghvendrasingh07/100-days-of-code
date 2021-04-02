@@ -370,6 +370,12 @@ Break from 100DaysOfCode for College Exam.
 
 ### Day 62: March 30, 2021
 
-**Today's Progress**: Today, I learned multiple reducer, combine reducer, Middleware, Async action, and Redux thunk. Redux thunk and middleware are a bit confusing and seem difficult to understand. Therefore, I have decided that I will repeat again after completion, otherwise if I do any project then I will understand.
+**Today's Progress**: Today, I learned multiple reducers, combine reducer, Middleware, Async action, and Redux thunk. Redux thunk and middleware are a bit confusing and seem difficult to understand. Therefore, I have decided that I will repeat again after completion, otherwise if I do any project then I will understand.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Redux)
+
+### Day 63: April 01, 2021
+
+**Today's Progress**: Today, I learned a little about Composing and Piping, what is Immutable.js, and Immer. All this happened because today I was watching the Redux tutorial on youTube. The video is not completed yet which I may complete tomorrow. Also, I solved 2 problems on HackerRank.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Redux)
