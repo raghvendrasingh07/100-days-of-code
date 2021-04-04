@@ -345,7 +345,7 @@ Break from 100DaysOfCode for College Exam.
 
 **Today's Progress**: I am a bit confused about hooks in Reactjs so I have started to reiterate hooks in Reactjs. I learned hooks rules, worked with the array using useState, what are dot operator, handle objects using useState, and a little bit about short circuit evaluation.
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/)
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
 
 ### Day 58: March 24, 2021 | Day 59: March 25, 2021
 
@@ -354,19 +354,19 @@ Break from 100DaysOfCode for College Exam.
 - Reiterating reactjs where yesterday I learned how useEffect and clean-up function works, understood the useEffect dependency list array, login validation.
 - Today, I earned a gold badge in 10 days of JS. The binary calculator challenge was a bit daunting, but after several attempts and changing code logic, I got success.
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/)
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
 
 ### Day 60: March 27, 2021
 
 **Today's Progress**: Learned (i.e Reiterated) useRef, Ref, useReducer, useContext, createContext, What is Prop Drilling, and Context API. I have little doubt in useRef and Ref which I will clear yesterday and that's all for today.
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/)
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
 
 ### Day 61: March 28, 2021
 
 **Today's Progress**: Today, I understood useRef, ref by repeating it again. After that, I moved to Redux today. Learned about actions, state, and Predictable container. I'm a beginner in Redux, so I'm taking a little time to understand.
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/)
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Redux)
 
 ### Day 62: March 30, 2021
 
@@ -379,3 +379,9 @@ Break from 100DaysOfCode for College Exam.
 **Today's Progress**: Today, I learned a little about Composing and Piping, what is Immutable.js, and Immer. All this happened because today I was watching the Redux tutorial on youTube. The video is not completed yet which I may complete tomorrow. Also, I solved 2 problems on HackerRank.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/tree/master/Redux)
+
+### Day 64: April 02, 2021 | Day 65: April 03, 2021
+
+**Today's Progress**: Within these two days, I have completed redux, after that I have started to work on a project. It will be an e-commerce type web application. So far, the header component and the card component have been completed in this project but it is not yet responsive. I was trying to make the banner poster responsive but it is not fully responsive yet.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
