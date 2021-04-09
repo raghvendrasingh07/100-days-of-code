@@ -382,6 +382,18 @@ Break from 100DaysOfCode for College Exam.
 
 ### Day 64: April 02, 2021 | Day 65: April 03, 2021
 
-**Today's Progress**: Within these two days, I have completed redux, after that I have started to work on a project. It will be an e-commerce type web application. So far, the header component and the card component have been completed in this project but it is not yet responsive. I was trying to make the banner poster responsive but it is not fully responsive yet.
+**Both Days Progress**: Within these two days, I have completed redux, after that I have started to work on a project. It will be an e-commerce type web application. So far, the header component and the card component have been completed in this project but it is not yet responsive. I was also trying to make the banner poster responsive but it is not fully responsive yet.
 
-**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 66: April 06, 2021 | Day 67: April 07, 2021
+
+**Both Days Progress**: From both days, I have been trying to improve the headers and banners. I changed my UI design several times and still not satisfied. Therefore, I have decided to work on the same (i.e. changing the UI look).
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 68: April 09, 2021
+
+**Today's Progress**: Spent a large part of the day making the header responsive and is almost complete. Now, I will proceed to create the categories component for the collection of products and set up a firestore for login authentication.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
