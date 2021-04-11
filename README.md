@@ -397,3 +397,9 @@ Break from 100DaysOfCode for College Exam.
 **Today's Progress**: Spent a large part of the day making the header responsive and is almost complete. Now, I will proceed to create the categories component for the collection of products and set up a firestore for login authentication.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 69: April 10, 2021
+
+**Today's Progress**: Did not code much today. I spent a large part of the day attending the Nodejs workshop. Learned about crud operations with Express js and React js. Connecting to the MongoDB database to fetch and send data. Right now I do not understand completely because it will take some more time to learn.
+
+**Link to work:** No code today
