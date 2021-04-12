@@ -403,3 +403,9 @@ Break from 100DaysOfCode for College Exam.
 **Today's Progress**: Did not code much today. I spent a large part of the day attending the Nodejs workshop. Learned about crud operations with Express js and React js. Connecting to the MongoDB database to fetch and send data. Right now I do not understand completely because it will take some more time to learn.
 
 **Link to work:** No code today
+
+### Day 70: April 11, 2021
+
+**Today's Progress**: Improving the UI design of my project (e-commerce) project. Trying to add dark mode. So far, I have only customized the theme, but have not completed it yet. Tomorrow, I'll do a Google search and read the docs so that I can customize Dark Mode in a better way.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
