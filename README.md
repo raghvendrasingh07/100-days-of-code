@@ -409,3 +409,9 @@ Break from 100DaysOfCode for College Exam.
 **Today's Progress**: Improving the UI design of my project (e-commerce) project. Trying to add dark mode. So far, I have only customized the theme, but have not completed it yet. Tomorrow, I'll do a Google search and read the docs so that I can customize Dark Mode in a better way.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 71: April 12, 2021 | Day 72: April 13, 2021
+
+**Both Days Progress**: In two days, I was successful in doing react certification exam on Hacker Rank. After that, I proceeded to work on my e-commerce store project, where I am trying to customize the material UI button, but when I am moving my code from localhost to the server it is not looking as expected because I'm trying to add 'dark mode'.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
