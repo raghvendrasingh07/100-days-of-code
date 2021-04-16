@@ -416,8 +416,14 @@ Break from 100DaysOfCode for College Exam.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
 
-### Day 73: April 13, 2021
+### Day 73: April 14, 2021
 
-**Today's Progress**: I am having some problems seeing my application properly in dark mode Disappointed but relieved face. Searched on Google but not satisfied. So, tomorrow I will do more search and work on the same problem. After that, if I have time left, I will work to create a sign-up page.
+**Today's Progress**: I am having some problems seeing my application properly in dark mode. Searched on Google but not satisfied. So, tomorrow I will do more search and work on the same problem. After that, if I have time left, I will work to create a sign-up page.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 74: April 15, 2021
+
+**Today's Progress**: My application is looking as good in dark mode as I wanted. I created sign-in and sign-up pages after that. Now, I am getting satisfaction from my own application and feeling a little happy. Tomorrow I will integrate Firebase with my web application to check the authenticity of users.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
