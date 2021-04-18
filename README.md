@@ -427,3 +427,9 @@ Break from 100DaysOfCode for College Exam.
 **Today's Progress**: My application is looking as good in dark mode as I wanted. I created sign-in and sign-up pages after that. Now, I am getting satisfaction from my own application and feeling a little happy. Tomorrow I will integrate Firebase with my web application to check the authenticity of users.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 75: April 17, 2021
+
+**Today's Progress**: Spent the day removing some unused code from my project. Not much code today. I'm feeling a little relaxed today.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
