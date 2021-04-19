@@ -433,3 +433,9 @@ Break from 100DaysOfCode for College Exam.
 **Today's Progress**: Spent the day removing some unused code from my project. Not much code today. I'm feeling a little relaxed today.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 76: April 18, 2021
+
+**Today's Progress**: Today when I was setting up firebase, I got confused whether I should add firebase authentication first or do redux coding because if I add firebase authentication first and after that, I do redux coding, there may possibility of raising the issue. And, this will disappoint me. So today I did not go ahead and was only playing with my project by removing and adding some functionality and features to test whether it fit my project or not.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
