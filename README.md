@@ -439,3 +439,9 @@ Break from 100DaysOfCode for College Exam.
 **Today's Progress**: Today when I was setting up firebase, I got confused whether I should add firebase authentication first or do redux coding because if I add firebase authentication first and after that, I do redux coding, there may possibility of raising the issue. And, this will disappoint me. So today I did not go ahead and was only playing with my project by removing and adding some functionality and features to test whether it fit my project or not.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 77: April 19, 2021 | Day 78: April 20, 2021
+
+**Both day's Progress**: Working on the cart page, where I have just done a little work. Improved Dark mode color of my app. I have also resumed the study of Nodejs. I learned the event module and how to handle the events but am still having some difficulty in understanding which will make sense in the coming time.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
