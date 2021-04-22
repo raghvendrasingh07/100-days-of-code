@@ -445,3 +445,9 @@ Break from 100DaysOfCode for College Exam.
 **Both day's Progress**: Working on the cart page, where I have just done a little work. Improved Dark mode color of my app. I have also resumed the study of Nodejs. I learned the event module and how to handle the events but am still having some difficulty in understanding which will make sense in the coming time.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 79: April 21, 2021
+
+**Today's Progress**: Read Nodejs documentation to understand the event modules and their work. Proceeded my project work and worked on cart page designing.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
