@@ -451,3 +451,91 @@ Break from 100DaysOfCode for College Exam.
 **Today's Progress**: Read Nodejs documentation to understand the event modules and their work. Proceeded my project work and worked on cart page designing.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 80: April 24, 2021
+
+**Today's Progress**: Completed the node js and after that I started learning express js today. Not working on any projects related to Node or Express because I already have two projects going on that will take time to finish.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 81: May 09, 2021
+
+**Today's Progress**: Today I got time to repeat the redux. I am having difficulty implementing redux in my project and feeling bad because of it. I have thought that I will repeat it again and when I feel a little confident, and then will try to implement it in my project.
+
+**Link to work:** No Code today!
+
+### Day 82: May 13, 2021
+
+**Today's Progress**: Difficulty understanding Redux thunk and middleware. I am trying to get a better understanding, but still not clear.
+
+- Project Progress: Created redux store and added theme state for theme toggling.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 83: May 14, 2021
+
+**Today's Progress**: It took a full day to integrate Firebase which would authenticate the user's identity.Today I had some trouble managing the user state in the Redux store, in which it was not updating the state after the action was dispatched.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 84: May 16, 2021
+
+**Today's Progress**: Did not code much in my project today. The whole day passed while improving the previous code.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 85: May 19, 2021
+
+**Today's Progress**: Improving redux still I have many doubts which I am trying to understand.
+
+- Project Progress: Added some demo data to Firestore and then fetched data into my application for demonstration and to work with the cart page.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 86: May 20, 2021
+
+**Today's Progress**: Was busy with my college routine and after that when I got free time I revised some JavaScript array concepts and then some redux concepts.
+
+- Today I did not work on my project
+
+**Link to work:** No Code Today!
+
+### Day 87: May 21, 2021
+
+**Today's Progress**: Most part of my project is done, but there is still more work to be done, which I am trying to complete soon. I have to integrate payment system, a lot of data to be added, as well as debugging and code refactoring.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 88: May 22, 2021
+
+**Today's Progress**: Thought to change the UI of my project so I was working on it.
+
+- Did not learned anything new today.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 89: May 23, 2021
+
+**Today's Progress**: Project progress -
+
+- The UI is modified.
+- Solved the problem of the routing.
+- More data added to database.
+
+It was a pleasure working on it.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 90: May 24, 2021
+
+**Today's Progress**: Today I was reading about Core Web Vital which has just been introduced by Google in 2021 for website and page ranking (Spent today in different way).
+
+- Not worked on project today.
+
+**Link to work:** No Code Today!
+
+### Day 91: May 25, 2021
+
+**Today's Progress**: Working on the integration of Stripe Payment Gateway. The payment gateway needs to be implemented correctly. Therefore, I am collecting more knowledge on this.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
