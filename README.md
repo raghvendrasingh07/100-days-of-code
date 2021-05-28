@@ -539,3 +539,21 @@ It was a pleasure working on it.
 **Today's Progress**: Working on the integration of Stripe Payment Gateway. The payment gateway needs to be implemented correctly. Therefore, I am collecting more knowledge on this.
 
 **Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 92: May 26, 2021
+
+**Today's Progress**: Started learning MongoDB. Installation on my machine is done and environment variables is set. Reading intro part of MongoDB
+
+**Link to work:** No code Today!
+
+### Day 93: May 27, 2021
+
+**Today's Progress**: In recent times I have been building a small e-commerce store site for my portfolio. Along with creating this website, I have got to learn a lot, but more work is yet to be done. Feel free to take a look and please let me know your suggestions.
+
+**Link to work:** [Project Demo](https://mymartstore.netlify.app/)
+
+### Day 94: May 28, 2021
+
+**Today's Progress**: Learn some basic commands of MongoDB. I also made my own personal cheat sheet to remember everything. It took a little extra time today to set the environment variable, but now it's setup. Also, today I tried to read the article of lazy loading but not completed yet.
+
+**Link to work:** No code Today!
