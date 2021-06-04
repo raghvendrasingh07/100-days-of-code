@@ -557,3 +557,37 @@ It was a pleasure working on it.
 **Today's Progress**: Learn some basic commands of MongoDB. I also made my own personal cheat sheet to remember everything. It took a little extra time today to set the environment variable, but now it's setup. Also, today I tried to read the article of lazy loading but not completed yet.
 
 **Link to work:** No code Today!
+
+### Day 95: May 29, 2021
+
+**Today's Progress**: As a developer, you also need to know about page speed, how you can speed up the website so that the user has a good experience on your website. To understand this, today I was studying how to solve speed issues and learned more about it.
+
+**Link to work:** No code Today!
+
+### Day 96: May 30, 2021
+
+**Today's Progress**: Today, I started designing my portfolio, I am designing in Figma. In addition, proceed to learn mongoDB, and learned new commands related to CRUD operations.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
+
+### Day 97 and Day 98: May 31, 2021 & June 01, 2021
+
+**Today's Progress**:
+
+- Portfolio designed at @figmadesign.
+- @MongoDB basics done.
+- Coding setup done for my portfolio design work.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/100-days-of-code/)
+
+### Day 99: June 02, 2021
+
+**Today's Progress**: Spent the day improving my previous project a bit more. There are some issues running into my project that I'm trying to fix.
+
+**Link to work:** [Code here](https://github.com/rsinghcodes/mymart)
+
+### Day 100: June 03, 2021
+
+**Today's Progress**: Finally, I have completed my #100DaysOfCode challenge. I started this journey in January and for some reason I had to take a break but still tried to complete it and now it is finally completed.
+
+**Link to work:** [100DaysOfCode Progress Completed](https://github.com/rsinghcodes/100-days-of-code/)
